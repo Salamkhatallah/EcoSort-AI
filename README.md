@@ -134,7 +134,7 @@ After comparison, the MobileNetV2 model was selected as the final production mod
 
 Clone the repository:
 
-git clone https://github.com/salamkhatallah/EcoSort-AI.git
+git clone https://github.com/Salamkhatallah/EcoSort-AI.git
 
 Move into the project directory:
 
